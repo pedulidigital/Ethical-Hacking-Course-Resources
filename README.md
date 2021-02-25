@@ -1,6 +1,10 @@
 # Ethical-Hacking-Course-Resources
 General Links: https://www.pedulidigital.com
 
+
+
+====== Course 1: Introduction to Ethical Hacking
+
 ## Note Keeping
 KeepNote: http://keepnote.org/
 
@@ -31,3 +35,12 @@ Shared Drive: https://drive.google.com/open?id=1pIh9t_e6CyjaaZgtA_K1okZkcHhrXncX
 Official Offensive Security kali 2019.3 release: https://cdimage.kali.org/kali-2019.3/
 
 Other Offical kali 2019 Releases: https://cdimage.kali.org/
+
+
+
+
+====== Course 2: Practical Ethical Hacking for Beginner
+
+
+Breach Parse: https://github.com/hmaverickadams/breach-parse
+Kioptrix LEVEL 1 : https://www.vulnhub.com/entry/kioptrix-level-1-1,22/
